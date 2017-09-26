@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/res/merged/debug/raw/sepia.fsh",
+        "source": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/src/main/res/raw/sepia.fsh"
+    },
+    {
+        "merged": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/res/merged/debug/raw/original.fsh",
+        "source": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/src/main/res/raw/original.fsh"
+    },
+    {
+        "merged": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/res/merged/debug/raw/original_rtt.fsh",
+        "source": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/src/main/res/raw/original_rtt.fsh"
+    },
+    {
+        "merged": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/res/merged/debug/raw/blue.fsh",
+        "source": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/src/main/res/raw/blue.fsh"
+    },
+    {
+        "merged": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/res/merged/debug/raw/yellow.fsh",
+        "source": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/src/main/res/raw/yellow.fsh"
+    },
+    {
+        "merged": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/res/merged/debug/raw/vertext.vsh",
+        "source": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/src/main/res/raw/vertext.vsh"
+    },
+    {
+        "merged": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/res/merged/debug/raw/negative.fsh",
+        "source": "/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/src/main/res/raw/negative.fsh"
+    }
+]

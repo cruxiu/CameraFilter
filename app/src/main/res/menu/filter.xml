@@ -1,0 +1,36 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/capture"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Capture"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/filter0"
+        android:title="Original"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/filter1"
+        android:title="Negative"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/filter2"
+        android:title="Blue"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/filter3"
+        android:title="Yellow"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/filter4"
+        android:title="Sepia"
+        app:showAsAction="never" />
+
+</menu>

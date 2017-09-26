@@ -1,0 +1,4 @@
+#Wed Jul 05 08:11:25 BRT 2017
+base.0=/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/luis/Documents/UFRN/2017.3/projetos/app-zoom-case/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
